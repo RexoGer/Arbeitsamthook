@@ -12,9 +12,10 @@ but if you know how to code then u can try to
 change the aimbot method to smth more ud
 ```
 
-## Some tutorials to help
+## Tutorials
 ```
-soon
+https://pastebin.com/HkRn7Hck
+Password : Arbeitsamthook
 ```
 
 ## Requierements
