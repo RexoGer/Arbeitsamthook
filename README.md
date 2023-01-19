@@ -12,6 +12,11 @@ but if you know how to code then u can try to
 change the aimbot method to smth more ud
 ```
 
+## Some tutorials to help
+```
+soon
+```
+
 ## Requierements
 ```
 NVIDIA Cuda ( check https://en.wikipedia.org/wiki/CUDA#GPUs_supported )
